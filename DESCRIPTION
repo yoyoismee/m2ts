@@ -1,0 +1,10 @@
+Package: m2ts
+Title: Time Series representation of machine learning model
+Version: 0.44.112
+Authors@R: person("Phatrasek", "Jirabovonvisut", email = "yoyoismee@gmail.com", role = c("aut", "cre"))
+Description:Time Series representation of machine learning model
+Depends: R (>= 3.2.3)
+License: apache 2.0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1.9000
